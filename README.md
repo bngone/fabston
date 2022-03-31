@@ -2,10 +2,10 @@
 
 #### 👷 I'm currently working on
 
-- [fabston/little-snitch-blocklist](https://github.com/fabston/little-snitch-blocklist) - 🛡 A malicious URL blocklist that protects you from advertisements, malwares, spams, statistics &amp; trackers on both web browsing and applications. (today)
-- [fabston/hugo-theme-priam](https://github.com/fabston/hugo-theme-priam) - ⚡️ A fast, clean, responsive Hugo theme. (today)
-- [fabston/Telegram-Airdrop-Bot](https://github.com/fabston/Telegram-Airdrop-Bot) - 🎈 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens. (today)
-- [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  (today)
+- [fabston/little-snitch-blocklist](https://github.com/fabston/little-snitch-blocklist) - 🛡 A malicious URL blocklist that protects you from advertisements, malwares, spams, statistics &amp; trackers on both web browsing and applications. (1 day ago)
+- [fabston/hugo-theme-priam](https://github.com/fabston/hugo-theme-priam) - ⚡️ A fast, clean, responsive Hugo theme. (1 day ago)
+- [fabston/Telegram-Airdrop-Bot](https://github.com/fabston/Telegram-Airdrop-Bot) - 🎈 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens. (1 day ago)
+- [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  (1 day ago)
 
 #### 🌱 My latest projects
 
